@@ -8,6 +8,9 @@ a{
   text-align: center;
   margin-bottom: 200px;
 }
+.intro-header{
+  margin: 0 8%;
+}
 .intro-image{
   width: 33%;
   display: inline-block;
